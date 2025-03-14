@@ -1,1 +1,8 @@
-transformers\ntorch\ndatasets
+transformers
+ntorch
+ndatasets
+transformers
+torch
+datasets
+sentence-transformers
+faiss-cpu
