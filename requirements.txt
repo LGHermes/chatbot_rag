@@ -1,5 +1,5 @@
 transformers
-ntorch
+torch>=2.2.0
 ndatasets
 transformers
 torch
